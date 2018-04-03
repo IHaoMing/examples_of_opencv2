@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  16_use_pointer_access_pixel.cpp
+f:\code\examples_of_opencv2\16_use_pointer_access_pixel\16_use_pointer_access_pixel\16_use_pointer_access_pixel.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+f:\code\examples_of_opencv2\16_use_pointer_access_pixel\16_use_pointer_access_pixel\16_use_pointer_access_pixel.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+  16_use_pointer_access_pixel.vcxproj -> F:\Code\examples_of_opencv2\16_use_pointer_access_pixel\Debug\16_use_pointer_access_pixel.exe
