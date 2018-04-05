@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  21_use_at_access_pixel.cpp
+f:\code\examples_of_opencv2\21_use_at_access_pixel\21_use_at_access_pixel\21_use_at_access_pixel.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+f:\code\examples_of_opencv2\21_use_at_access_pixel\21_use_at_access_pixel\21_use_at_access_pixel.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 88 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  21_use_at_access_pixel.vcxproj -> F:\Code\examples_of_opencv2\21_use_at_access_pixel\Release\21_use_at_access_pixel.exe
